@@ -1,2 +1,2 @@
 # hello-world
-This is me learning git
+This is me Sreenivas learning how to use git as a version control tool. 
